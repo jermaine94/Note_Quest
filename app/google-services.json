@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988653030265",
+    "project_id": "my-application-a80a6",
+    "storage_bucket": "my-application-a80a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988653030265:android:0ca3a9e77a1b4d560c7da8",
+        "android_client_info": {
+          "package_name": "ca.jermainechambers.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSBuHWzmVk63ehV5YuxiPTEVF4Vc9DuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
